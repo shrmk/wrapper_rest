@@ -3,27 +3,7 @@
 #  Project: orion_tool.py
 #
 ###############################################################################
-#
-#                Artesyn Embedded Technologies
-#                Embedded Computing
 #                Hyderabad, India
-#
-#        [ ] Open Source   [ ] Contains Open Source Material  [.] Proprietary
-#
-#  Remarks: Note! This material is proprietary of
-#  EMERSON NETWORK POWER - EMBEDDED COMPUTING and may only
-#  be viewed under the terms of a signed non-disclosure agreement or a
-#  source code license agreement! Copying, compilation, modification,
-#  distribution or any other use whatsoever of this material is strictly prohibited
-#  without written permission of EMERSON NETWORK POWER - EMBEDDED COMPUTING.
-#  The information in this document is subject to change without notice and should
-#  not be construed as a commitment by EMERSON NETWORK POWER - EMBEDDED COMPUTING.
-#  Neither EMERSON NETWORK POWER - EMBEDDED COMPUTING nor the authors assume any
-#  responsibility for the use or reliability of this document or the described
-#  software.
-#
-#  Copyright (c) 2014, EMERSON NETWORK POWER - EMBEDDED COMPUTING Inc.
-#  All rights reserved.
 #
 ###############################################################################
 #
