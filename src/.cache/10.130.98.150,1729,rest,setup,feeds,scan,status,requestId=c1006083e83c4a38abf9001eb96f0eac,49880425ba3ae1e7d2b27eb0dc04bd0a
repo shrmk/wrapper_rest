@@ -1,0 +1,7 @@
+status: 200
+content-length: 145
+content-type: application/json
+content-location: http://10.130.98.150:1729/rest/setup/feeds/scan/status?requestId=c1006083e83c4a38abf9001eb96f0eac
+server: Jetty(7.x.y-SNAPSHOT)
+
+{"OrionResponse":{"message":"Success","data":{"request":{"id":"c1006083e83c4a38abf9001eb96f0eac","status":"COMPLETED"}},"extraInfo":{},"code":0}}

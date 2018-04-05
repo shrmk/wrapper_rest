@@ -1,0 +1,7 @@
+status: 200
+content-length: 366
+content-type: application/json
+content-location: http://10.130.98.150:1729/rest/setup/feeds
+server: Jetty(7.x.y-SNAPSHOT)
+
+{"OrionResponse":{"message":"Success","data":{"feeds":[{"feedInfo":{"port":3000,"id":680,"sourceIp":"192.168.100.5","ip":""}},{"feedInfo":{"port":3001,"id":681,"sourceIp":"192.168.100.5","ip":""}},{"feedInfo":{"port":3002,"id":682,"sourceIp":"192.168.100.5","ip":""}},{"feedInfo":{"port":3003,"id":683,"sourceIp":"192.168.100.5","ip":""}}]},"extraInfo":{},"code":0}}
